@@ -1,0 +1,17 @@
+{
+  "name": "full-stack-budgeting-app",
+  "version": "1.0.0",
+  "description": "A full-stack budgeting app with RESTful server for CRUD operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": ["full-stack", "budgeting", "app", "express", "crud"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
